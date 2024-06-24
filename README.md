@@ -1,6 +1,6 @@
 # PROJLIFE - Evolução do ActControl
 
-Clique [aqui](https://actcontrol.vercel.app/) e visualize o projeto publicado no Vercel!
+Clique [aqui](https://projlife.vercel.app/#/) e visualize o projeto publicado no Vercel!
 
 App desenvolvido com Vue 3 no Vite. Agora o usuário pode cadastrar novos projetos, editar e excluir projetos existentes. Após a criação dos projetos, o usuário pode ir até as tarefas e controlar o tempo dedicado com atividades em seus projetos. O desing tem ajuda do [Bulma.io](https://bulma.io). O app emite notificações. A gestão de estado dos componentes é feita com Vuex e as rotas definidas com VueRouter.
 
